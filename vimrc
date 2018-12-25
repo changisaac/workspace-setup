@@ -1,3 +1,4 @@
+"Isaac Chang
 "File viewer plugin"
 "execute pathogen#infect()
 "map <C-n> :NERDTreeToggle<CR>
