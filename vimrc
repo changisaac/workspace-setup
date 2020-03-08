@@ -85,5 +85,8 @@ map <leader>sp [s
 map <leader>sa zg
 map <leader>s? z=
 
+" Ctrl+l to unhighlight after search
+nnoremap <silent> <C-L> :nohlsearch<CR><C-L>
+
 syntax enable
 colorscheme monokai
